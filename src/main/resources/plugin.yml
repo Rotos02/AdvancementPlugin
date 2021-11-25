@@ -1,0 +1,7 @@
+name: AdvancementPlugin
+version: '${project.version}'
+main: de.rotosprogramm.rotosprogrammadvancement.Main
+api-version: 1.17
+authors: [ Rotos ]
+description: Challange Plugin
+
